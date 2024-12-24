@@ -1,20 +1,20 @@
 declare module "*.png" {
-  const value: unknown;
+  const value: any;
   export default value;
 }
 declare module "*.jpg" {
-  const value: unknown;
+  const value: any;
   export default value;
 }
 declare module "*.jpeg" {
-  const value: unknown;
+  const value: any;
   export default value;
 }
 declare module "*.gif" {
-  const value: unknown;
+  const value: any;
   export default value;
 }
 declare module "*.svg" {
-  const value: unknown;
+  const value: any;
   export default value;
 }
